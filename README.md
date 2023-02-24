@@ -10,7 +10,7 @@ May come back for revision later(gotta go see the guidelines)
 
 ```
 curl -X POST -H "Content-Type: multipart/form-data" \
--F "file=@/home/sliden/Pictures/suisad.png" \
+-F "file=@/path/to/image.jpg" \
 -F "width=500" \
 -F "height=500" \
 -F "quality=90" \
