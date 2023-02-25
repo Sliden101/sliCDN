@@ -16,3 +16,7 @@ curl -X POST -H "Content-Type: multipart/form-data" \
 -F "quality=90" \
 http://localhost:3000/upload
 ```
+
+## Todo
+
+- [ ] Add authentication
